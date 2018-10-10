@@ -1,0 +1,20 @@
+{
+  "name": "one-theme-ace",
+  "version": "0.5.0",
+  "description": "One themes for use with react-ace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "one",
+    "theme",
+    "ace",
+    "ace",
+    "theme",
+    "ace-react",
+    "theme"
+  ],
+  "author": "Simon Zeeks",
+  "license": "MIT"
+}
